@@ -11,7 +11,7 @@ A simple drawing application built with Python's Tkinter GUI toolkit.
 
 ## Screenshots
 
-*(Add screenshots of your app here to showcase the UI)*
+https://github.com/mhasan1122/Tkinter-Drawing-App/issues/1#issue-3247986496
 
 ## Requirements
 
